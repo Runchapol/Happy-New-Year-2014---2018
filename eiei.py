@@ -17,7 +17,7 @@ def graph123(injured, lis_y):
     y2016 = dataframe[dataframe['Years'] == 2016]
     y2017 = dataframe[dataframe['Years'] == 2017]
     y2018 = dataframe[dataframe['Years'] == 2018]
-    total_injured = total(2014, 2015, 2016, 2017, 2018, lis_y)
+    total_injured = total(y2014, y2015, y2016, y2017, y2018, lis_y)
     plt.plot(lis_x, total_injured, "o-", color="magenta", label="Injured")
 
     plt.title("สถิติจำนวนผู้ได้รับบาดเจ็บในแต่ล่ะปี", fontname='JasmineUPC', fontsize='25')
