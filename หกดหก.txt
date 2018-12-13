@@ -1,2 +1,0 @@
-print("Cho")
-Cr. Runchapol
