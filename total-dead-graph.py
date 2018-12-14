@@ -20,7 +20,7 @@ def graphinjured(dead, lis_y):
     total_injured = total(y2014, y2015, y2016, y2017, y2018, lis_y)
     plt.plot(lis_x, total_dead, "o-", color="magenta", label="Dead")
 
-    plt.title("สถิติจำนวนผู้เสีชีวิตในแต่ล่ะปี", fontname='JasmineUPC', fontsize='25')
+    plt.title("สถิติจำนวนผู้เสียชีวิตในแต่ล่ะปี", fontname='JasmineUPC', fontsize='25')
     plt.ylabel("ปริมาณ หน่วย(คน)", fontname='JasmineUPC', fontsize='20')
     plt.xlabel("ปี", fontname='JasmineUPC', fontsize='20')
     plt.legend()
