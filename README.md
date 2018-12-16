@@ -38,7 +38,7 @@ http://www.accident.or.th/index.php/2017-12-04-07-32-28
 | Profile | รหัสนักศึกษา        | ชื่อ - นามสกุล | Github |
 |:---------:| :-------------: |:---------------------:| :-------------: |
 | <a><img src="img/runchapol.jpg" width="200px"></a> | 61070183    | นายรัญชน์พล ทองวัฒนานนท์ | [Runchapol](https://github.com/Runchapol) |
-| | <a><img src="img/02.jpg" width="200px"></a> 61070189    | นางสาวราโมน่า บราว | [mona7315](https://github.com/mona7315) |
+| <a><img src="img/02.jpg" width="200px"></a> | 61070189    | นางสาวราโมน่า บราว | [mona7315](https://github.com/mona7315) |
 | <a><img src="img/Trity2543.jpg" width="200px"></a> | 61070194    | นายวนสิน มุทธาเสถียร | [Trity2543](https://github.com/Trity2543) |
 | | 61070237    | นายสหรัฐ พงษ์พณิชย์พันธ์ุ | [fluk14150](https://github.com/fluk14150) |
 
