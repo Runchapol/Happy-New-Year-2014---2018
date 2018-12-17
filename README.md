@@ -4,7 +4,7 @@
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ศึกษาและวิเคราะห์การเกิดอุบัติเหตุในช่วงปีใหม่ เพื่อศึกษาแนวโน้มและสาเหตุในการเกิดในช่วงปี 2557-2561 และสามารถนำมาประยุกต์ใช้ได้ในชีวิตประจำวัน
 
 ## แหล่งที่มาข้อมูล
-http://www.accident.or.th/index.php/2017-12-04-07-32-28
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://www.accident.or.th/index.php/2017-12-04-07-32-28
 
 ## สถิติของการเกิดอุบัติเหตุ
 - ในปี2014 เกิดอุบัติเหตุทั้งหมด 3,174 ครั้ง โดยวันที่ 1มกราคม 2014 เกิดอุบัติเหตุมากที่สุด เป็นจำนวน536ครั้ง และวันที่2มกราคม2014เป็นวันที่เกิดอุบัติเหตุน้อยที่สุด เป็นจำนวน 283 ครั้ง คิดเป็น 18.3% เมื่อเทียบตั้งแต่ปี 2014 ถึง 2018
@@ -40,7 +40,7 @@ http://www.accident.or.th/index.php/2017-12-04-07-32-28
 | <a><img src="img/runchapol.jpg" width="200px"></a> | 61070183    | นายรัญชน์พล ทองวัฒนานนท์ | [Runchapol](https://github.com/Runchapol) |
 | <a><img src="img/02.jpg" width="200px"></a> | 61070189    | นางสาวราโมน่า บราว | [mona7315](https://github.com/mona7315) |
 | <a><img src="img/Trity2543.jpg" width="200px"></a> | 61070194    | นายวนสิน มุทธาเสถียร | [Trity2543](https://github.com/Trity2543) |
-| | 61070237    | นายสหรัฐ พงษ์พณิชย์พันธ์ุ | [fluk14150](https://github.com/fluk14150) |
+| <a><img src="img/fluk.jpg" width="200px"></a> | 61070237    | นายสหรัฐ พงษ์พณิชย์พันธ์ุ | [fluk14150](https://github.com/fluk14150) |
 
 ## <a><img src="img/103.png" width="30px"></a> อาจารย์ที่ปรึกษา
 - รศ.ดร. โชติพัชร์ ภรณวลัย
